@@ -41,7 +41,7 @@ This project is licensed under the MIT license. (c) 2022
 
 ## Link
 
-https://obscure-plains-41681.herokuapp.com/
+https://moe-text-editor.herokuapp.com/
 
 ## Screenshot
 
