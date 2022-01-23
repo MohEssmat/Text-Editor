@@ -23,7 +23,7 @@ export const putDb = async (content) => {
   return result;
 };
 
-// TODO: Add logic for a method that gets all the content from the database
+//  Add logic for a method that gets all the content from the database
 export const getDb = async () => {
   // console.error("getDb not implemented");
   const openDB = await openDB("jate", 1);
