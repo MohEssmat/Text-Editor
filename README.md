@@ -21,7 +21,7 @@ This application allows you the functionality of a simple text editor that you c
 
 ## Installation
 
-    npm i
+    npm i && npm run build && npm run start:dev
 
 ## Usage
 
@@ -45,7 +45,7 @@ https://moe-text-editor.herokuapp.com/
 
 ## Screenshot
 
-![J.A.T.E.](./imgs/jate-screenshot.png)
+![J.A.T.E.](./imgs/jate.png)
 
 ## Questions
 
